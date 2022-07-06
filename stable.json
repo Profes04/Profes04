@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "|SAUDI✓Hacker|",
+    "versionCode": "24000",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.0/app-release.apk",
+    "note": "https://t.me/profeso4"
+  },
+  "stub": {
+    "versionCode": "25",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.0/stub-release.apk"
+  }
+}
